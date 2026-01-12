@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge">
   </a>
   <a href="https://x.com/Mr_Jain_Piyush">
-    <img src="https://img.shields.io/badge/X-Follow-000000?logo=x&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Twitter-Follow-000000?logo=x&style=for-the-badge">
   </a>
   <a href="https://www.instagram.com/mr__jain__piyush/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&style=for-the-badge">
