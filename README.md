@@ -8,7 +8,7 @@ vanshsharma69/vanshsharma69 is a ✨ special ✨ repository because its `README.
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=00E8F8&center=true&vCenter=true&width=600&lines=Hey+there+👋,+I'm+Vansh+Sharma!;Full+Stack+Developer+⚙️;AI+%26+ML+Explorer+🤖;Tech+Enthusiast+💡" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3500&pause=1000&color=00E8F8&center=true&vCenter=true&width=600&lines=Hey+there+👋,+I'm+Prakhar Jain!;Full+Stack+Developer+⚙️;AI+%26+ML+Explorer+🤖;Tech+Enthusiast+💡" alt="Typing Animation" />
 </div>
 
 ---
